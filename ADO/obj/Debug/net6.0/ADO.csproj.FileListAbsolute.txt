@@ -1,0 +1,17 @@
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\ADO.exe
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\ADO.deps.json
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\ADO.runtimeconfig.json
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\ADO.dll
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\ADO.pdb
+C:\Users\magnu\source\repos\ADO\ADO\bin\Debug\net6.0\Npgsql.dll
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfoInputs.cache
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfo.cs
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CopyComplete
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.dll
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\refint\ADO.dll
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.pdb
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ADO.genruntimeconfig.cache
+C:\Users\magnu\source\repos\ADO\ADO\obj\Debug\net6.0\ref\ADO.dll
